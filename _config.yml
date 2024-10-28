@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       PTC Srbobran
 email:       your_email@example.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Poslovno Trzni Centar Srbobran"
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://ptc.srb.in.rs"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
