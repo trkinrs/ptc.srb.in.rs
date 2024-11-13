@@ -1,14 +1,14 @@
 # Site settings
 title:       PTC Srbobran
-email:       your_email@example.com
-author:      John Otander
+email:       ptc@srb.in.rs
+author:      Dule
 description: "Poslovno Trzni Centar Srbobran"
 baseurl:     ""
 url:         "https://ptc.srb.in.rs"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
+ - lokali.md
+ - kontakt.html
 
 # Google services
 google_verification:
@@ -20,11 +20,11 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
-ajaxify_contact_form: false
+ajaxify_contact_form: true
 enable_mathjax: false
 extended_fonts: false
 enable_anchorjs: false
@@ -102,7 +102,7 @@ text:
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Posalji'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'

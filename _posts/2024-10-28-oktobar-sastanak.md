@@ -1,6 +1,6 @@
 ---
 layout:     post
-summary: Sastank vlasnika lokala odrzan u oktobru
+summary: Sastanak vlasnika lokala odrzan u oktobru
 ---
 
 8 vlasnika je diskutovalo kako da se poboljsaju uslovi u PTC
