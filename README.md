@@ -1,5 +1,10 @@
 # Pixyll
 
+# Convert images
+
+Images are 700px width.
+You can resize and convert to webp using gimp
+
 [pixyll.com](https://www.pixyll.com/)
 
 ![Pixyll screenshot](./screenshot.png)
