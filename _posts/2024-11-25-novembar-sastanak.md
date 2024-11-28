@@ -13,6 +13,6 @@ Na primer lokal od 20m2 placa iznos od <code>(20*25+1000)/2</code> tj  <code>750
 
 Tabelu svih lokala i iznosa za uplatu mozete naci na [ovom linku](https://docs.google.com/spreadsheets/d/1F7izVPTK6DkA3FTw5m5lxNT_6Bj4833d/edit?usp=sharing&ouid=115381639889859115660&rtpof=true&sd=true)
 
-Svi lokali su duzni da uplate do 10-tog u mesecu na racun 123-123123123-12.
+Svi lokali su duzni da uplate do 10-tog u mesecu na racun 160000000055536747
 
 <img src="{{ site.baseurl }}/images/sastanak_ptc_srbobran_2024-11-25.webp" alt="PTC Srbobran sastanak novembar" style="width: 100%; max-width: 700px" />

@@ -104,3 +104,16 @@ textarea {
   outline: none;
   box-shadow: 0 0 2px rgba($blue, .5);
 }
+
+// Hide next element without js using checkbox and label (optional)
+//  <label for='toggle-123'>Toggle</label>
+//  <input type='checkbox' id='toggle-123' data-toggle-next-element>
+//  <div class='hidden'>
+//    Content to be shown
+//  </div>
+[data-toggle-next-element] + * {
+  display: none;
+}
+[data-toggle-next-element]:checked + * {
+  display: block;
+}
