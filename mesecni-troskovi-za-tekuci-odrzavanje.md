@@ -26,7 +26,7 @@ Tabelu svih lokala i iznosa za uplatu mozete naci na [ovom linku](https://docs.g
     <div>
       Uplatilac: <strong>{{ lokal.vlasnik }}</strong><br>
       Iznos: <strong>{{ srednja_vrednost | replace: ".", "," }}</strong><br>
-      Poziv na broj: <strong>2024-{{ lokal.br_lokala }}</strong><br>
+      Model <strong>00</strong>, Poziv na broj: <strong>{{ lokal.br_lokala }}</strong><br>
       <img src="/images/ips-lokal-{{ lokal.br_lokala }}.png">
     </div>
   </li>
