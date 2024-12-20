@@ -9,29 +9,13 @@ tags: lokali
 
 28 Poslovno sportskih lokala u nasem trznom centru:
 
-- Knjizara Srvca
+- [Knjizara Švrća](knjizara-svrca)
 - Butik Rada
 - 
 - Za dodavanje na ovu listu potreno je da:
-- platite preostale [zajednicke troskove](/mesecni-troskovi-za-tekuci-odrzavanje) ukoliko postoje
+- platite preostale [zajednicke troskove](/mesecni-troskovi-za-tekuci-odrzavanje)
 - posaljite Naziv, opis, logo, sliku vase organizacije
 - ako imate sajt i zelite da razmenimo linkove, onda stavite link ka {{ site.url }} i mi vemo staviti link ka vasem sajtu
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - 
 - 

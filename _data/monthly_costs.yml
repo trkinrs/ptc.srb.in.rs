@@ -1,0 +1,113 @@
+---
+- office_id: 1
+  name: "PP Švrća"
+  area: 23
+  average_cost: 787.5
+- office_id: 2
+  name: "Popov Kovinka"
+  area: 29
+  average_cost: 862.5
+- office_id: 3
+  name: "Klipić Mira"
+  area: 28
+  average_cost: 850
+- office_id: 4
+  name: "Klipić Mira"
+  area: 37
+  average_cost: 962.5
+- office_id: 5
+  name: "Velaga Rada"
+  area: 18
+  average_cost: 725
+- office_id: 7
+  name: "Stanišić Dibravaka"
+  area: 27
+  average_cost: 837.5
+- office_id: 8
+  name: "Smieško Tibor"
+  area: 19
+  average_cost: 737.5
+- office_id: 9
+  name: "Fulajtar Nada"
+  area: 28
+  average_cost: 850
+- office_id: 10
+  name: "Šimpraga Đuro"
+  area: 140
+  average_cost: 2250
+- office_id: 11
+  name: "Lojović Radojka"
+  area: 23
+  average_cost: 787.5
+- office_id: 12
+  name: "Androcki Ferenc"
+  area: 9
+  average_cost: 612.5
+- office_id: 13
+  name: "Letić Ljubomir"
+  area: 35
+  average_cost: 937.5
+- office_id: 14
+  name: "Jojkić Ankica"
+  area: 21
+  average_cost: 762.5
+- office_id: 15
+  name: "Nasifović Nemanja i Nenad"
+  area: 57
+  average_cost: 1212.5
+- office_id: 16
+  name: "Arvaji Mirjana"
+  area: 66
+  average_cost: 1325
+- office_id: 17
+  name: "Jandrić Vlada"
+  area: 58
+  average_cost: 1225
+- office_id: 18
+  name: "Golupski Vladislav"
+  area: 49
+  average_cost: 1112.5
+- office_id: 20
+  name: "Golupski Vladislav (Muzer Radoslav)"
+  area: 16
+  average_cost: 700
+- office_id: 21
+  name: "Panić Lazar i Rozalija"
+  area: 22
+  average_cost: 775
+- office_id: 22
+  name: "Nikolić Vladimir"
+  area: 16
+  average_cost: 700
+- office_id: 23
+  name: "Panić Iboja"
+  area: 20
+  average_cost: 750
+- office_id: 24
+  name: "Golupski Đurđina"
+  area: 20
+  average_cost: 750
+- office_id: 26
+  name: "Šimpraga Todor"
+  area: 48
+  average_cost: 1100
+- office_id: 28
+  name: "Stanišić Radomir"
+  area: 14
+  average_cost: 675
+- office_id: 29
+  name: "Šimpraga Todor"
+  area: 139
+  average_cost: 2237.5
+- office_id: 30
+  name: "Golupski Slađana"
+  area: 35
+  average_cost: 937.5
+- office_id: 31
+  name: "Golub Branko"
+  area: 148
+  average_cost: 2350
+- office_id: 32
+  name: "Vulkan Commerce"
+  area: 165
+  average_cost: 2562.5

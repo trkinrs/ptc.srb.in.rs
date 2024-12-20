@@ -4,17 +4,17 @@ require 'json'
 require 'uri'
 
 API_URL = 'https://nbs.rs/QRcode/api/qr/v1/gen?lang=sr_RS'
-csv_file = '_data/mesecni_troskovi.csv'
+csv_file = '_data/monthly_costs.csv'
 
 output_dir = './images'
 Dir.mkdir(output_dir) unless Dir.exist?(output_dir)
 
 CSV.foreach(csv_file, headers: true) do |row|
-  br_lokala = row["br_lokala"]
-  # next unless br_lokala == "1"
-  name = "ips-lokal-#{br_lokala}"
-  vlasnik = row['vlasnik']
-  srednja_vrednost = row['srednja_vrednost']
+  office_id = row["office_id"]
+  # next unless office_id == "1"
+  name = "ips-lokal-#{office_id}"
+  name = row['name']
+  average_cost = row['average_cost']
   svrha_uplate = "Mesecni troskovi za odrzavanje"
 
   # json_body = {
@@ -35,11 +35,11 @@ CSV.foreach(csv_file, headers: true) do |row|
     "C": "1",
     "R": "160000000055536747",
     "N": "Stambena zajednica\r\nTrg republike 1",
-    "I": "RSD#{format("%.2f", srednja_vrednost.to_f).tr(".", ",")}",
-    "P": vlasnik[..69],
+    "I": "RSD#{format("%.2f", average_cost.to_f).tr(".", ",")}",
+    "P": name[..69],
     "SF": "189",
     "S": svrha_uplate[...34],
-    "RO": "00#{br_lokala}"
+    "RO": "00#{office_id}"
   }
 
   puts json_body
